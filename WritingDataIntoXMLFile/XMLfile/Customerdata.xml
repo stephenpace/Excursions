@@ -546,4 +546,19 @@ Now that's our kind of higher education.</Information>
     Over an hour and a half, the students are given expert lessons in traditional Irish dancing.
   Good exercise and lots of fun!</Information>
   </Customer>
+<Customer>
+    <Title>Bray Irish Dancing</Title>
+    <Area>Bray</Area>
+    <StudentCost>€9.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website></Website>
+    <Information>Irish dance lessons take place in Bray, generally in the Esplanade Hotel, but can also be held in the Martello Hotel.
+    Over an hour and a half, the students are given expert lessons in traditional Irish dancing.
+  Good exercise and lots of fun!</Information>
+  </Customer>
 </Customer>
