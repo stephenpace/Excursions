@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customer>
+	<Customer>
+		<Title>Glendalough half day</Title>
+		<Area>Wicklow</Area>
+		<StudentCost>€4.00</StudentCost>
+		<Transport>Yes</Transport>
+    <Transport16>€225.00</Transport16>
+    <Transport30>€330.00</Transport30>
+    <Transport53>€370.00</Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.glendalough.ie/</Website>
+    <Information>For thousands of years people have been drawn to ‘the valley of the two lakes‘ for its spectacular scenery, rich history, archaeology and abundant wildlife. 
+    Glendalough is a remarkable place that will still your mind, inspire your heart and fill your soul.</Information>
+	</Customer>
+  <Customer>
+    <Title>Glendalough full day</Title>
+    <Area>Wicklow</Area>
+    <StudentCost>€4.00</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16></Transport16>
+    <Transport30>€410.00</Transport30>
+    <Transport53>€490.00</Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.glendalough.ie/</Website>
+  <Information>For thousands of years people have been drawn to ‘the valley of the two lakes‘ for its spectacular scenery, rich history, archaeology and abundant wildlife. 
+    Glendalough is a remarkable place that will still your mind, inspire your heart and fill your soul.</Information>
+  </Customer>
+  <Customer>
+    <Title>Ardgillan Castle</Title>
+    <Area>Co. Dublin</Area>
+    <StudentCost>€5.50</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16></Transport16>
+    <Transport30>€370.00</Transport30>
+    <Transport53>€530.00</Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://ardgillancastle.ie//</Website>
+    <Information>Ardgillan Castle and Demesne is Ireland’s hidden gem. 
+    Set in spectacular parklands overlooking the Irish Sea with a magnificent view of the Mourne Mountains. 
+    As well as the castle, the demesne features a walled and rose garden both of which present an orderly profusion of colour.</Information>
+  </Customer>
+  <Customer>
+    <Title>Aviva Stadium</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€9.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>www.avivastadium.ie/</Website>
+    <Information>Did you know that Aviva Stadium was built on one of the oldest sports grounds in the world? 
+Did you know that the first ever international athletic meeting happened on Lansdowne Road in 1876?
+Want to learn more about our 150 years of Irish Sporting History? Visit us for a tour. 
+You will see the press conference room, home dressing rooms, players' tunnel, dugouts and more. 
+Our tour guides will bring you around the stadium and entertain you for an hour.</Information>
+  </Customer>
+  <Customer>
+    <Title>Battle of the Boyne Visitor Centre</Title>
+    <Area>Drogheda</Area>
+    <StudentCost>€4.50</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16></Transport16>
+    <Transport30>€370.00</Transport30>
+    <Transport53>€530.00</Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.battleoftheboyne.ie/</Website>
+    <Information>The Battle of the Boyne is one of the most significant events in Irish history.
+
+The Battle of the Boyne was fought between King William III and his father-in-law King James II on 1 July 1690. 
+The kings were rival claimants to the English, Scottish and Irish thrones. 
+Protestant King William (of Orange) had deposed Catholic King James in 1688.</Information>
+  </Customer>
+  <Customer>
+    <Title>Book of Kells</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Oct-Mar:€3.50, Apr-Sep:€9.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>https://www.tcd.ie/visitors/book-of-kells/</Website>
+    <Information>The Book of Kells is Ireland's greatest cultural treasure and the world's most famous medieval manuscript. 
+    
+  The 9th century book is a richly decorated copy of the four Gospels of the life of Jesus Christ.</Information>
+  </Customer>
+  <Customer>
+    <Title>Bray Bowl</Title>
+    <Area>Bray</Area>
+    <StudentCost>1 game of Bowling: €27.00 per lane (max 6 per lane).  For the 'All-in Deal', this is €13.00 per student.</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.braybowl.ie/</Website>
+    <Information>There is so much to do at Bray Bowl, with 16 tenpin bowling lanes, 
+an arcade, snooker and pool and Quasar laser tag arena!</Information>
+  </Customer>
+  <Customer>
+    <Title>Bray Head Walk</Title>
+    <Area>Bray</Area>
+    <StudentCost>Free</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website></Website>
+    <Information>To get some of the most stunning views of Bray, look no further than Bray Head. 
+    The hill dominates the end of the promenade and the stone cross atop the hill is an iconic feature of the town.
+    While the climb is not particularly daunting, some parts can be a bit of a challenge and require some scrambling. 
+    But if the hike up doesn’t leave you breathless the views sure will!</Information>
+  </Customer>
+  <Customer>
+    <Title>Butlers Chocolate Experience</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€13.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.butlerschocolates.com/chocolateexperience</Website>
+    <Information>Visit the Butlers Chocolate Experience - the ultimate chocolate discovery tour in Ireland. 
+    Based in the home of Ireland's favourite chocolates, a visit here is a must for chocolate lovers of all ages.</Information>
+  </Customer>
+  <Customer>
+    <Title>Causey Farm Half Day</Title>
+    <Area>Co. Meath</Area>
+    <StudentCost>€15.00</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16>€225.00</Transport16>
+    <Transport30>€290.00</Transport30>
+    <Transport53>€370.00</Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.causey.ie/</Website>
+    <Information>Causey Farm is a fun based venue for a variety of entertainment, tourism and educational programs. 
+We provide interactive cultural experiences in a friendly atmosphere for Irish and international groups, 
+as well as fantastic seasonal events for families and individuals.
+Our educational programs have an interactive, ‘Hands-On’ focus, visitors get to participate in all activities. 
+For international tourists – learn about live Irish culture the fun way! Dance a jig, play the bodhráin, 
+cut turf in a bog, bake brown soda bread, see a sheepdog at work and more!</Information>
+  </Customer>
+  <Customer>
+    <Title>Causey Farm Full Day</Title>
+    <Area>Co. Meath</Area>
+    <StudentCost>€20.00</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16>€345.00</Transport16>
+    <Transport30>€410.00</Transport30>
+    <Transport53>€490.00</Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.causey.ie/</Website>
+  <Information>Causey Farm is a fun based venue for a variety of entertainment, tourism and educational programs. 
+We provide interactive cultural experiences in a friendly atmosphere for Irish and international groups, 
+as well as fantastic seasonal events for families and individuals.
+Our educational programs have an interactive, ‘Hands-On’ focus, visitors get to participate in all activities. 
+For international tourists – learn about live Irish culture the fun way! Dance a jig, play the bodhráin, 
+cut turf in a bog, bake brown soda bread, see a sheepdog at work and more!</Information>
+  </Customer>
+<Customer>
+    <Title>Ceilí Irish Dancing</Title>
+    <Area>Co. Dublin</Area>
+    <StudentCost>€10.00</StudentCost>
+    <Transport>Optional</Transport>
+    <Transport16>One way: €200.00, Two way: €250.00</Transport16>
+    <Transport30>One way: €270.00, Two way: €310.00</Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>https://comhaltas.ie/</Website>
+  <Information>Our Céilí takes place on a Friday night at 9pm until midnight. 
+  Music is provided by a live Céilí band featuring instruments such as fiddle, tin whistle, flute, accordion, 
+  bodhrán, producing Ireland’s unique traditional rhythmical sound that encourages feet and fingers to tap. 
+  We also provide a “Caller”, a person that calls out the dance steps as the music is played, so even complete beginners can join in. 
+  Entrance to the Céilí will cost you €10 and includes tea/coffee and scone.</Information>
+  </Customer>
+<Customer>
+    <Title>Chester Beatty Library</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Free</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.cbl.ie/</Website>
+  <Information>With free admission and described by the Lonely Planet as not just the best museum in Dublin, 
+  but one of the best in Europe, the Chester Beatty Library is a must-see on any Dublin visitor's itinerary.  
+  As the only museum in Ireland to win 'European Museum of the Year' and rated consistently in the top 5 of TripAdvisor’s list of ‘Top things to do in Dublin', 
+  the library's rich collections from countries across Asia, the Middle East, North Africa and Europe open a window on the artistic treasures of the great cultures and religions of the world.</Information>
+  </Customer>
+<Customer>
+    <Title>Christchurch Cathedral</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€4.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://christchurchcathedral.ie/</Website>
+  <Information>Christ Church Cathedral (founded c.1028) is the spiritual heart of the city, and one of the top visitor attractions in Dublin. 
+  Step inside and you can enjoy the cathedral’s beautiful interior and fascinating medieval crypt.</Information>
+  </Customer>
+<Customer>
+    <Title>Greystones Cliff Walk</Title>
+    <Area>Bray</Area>
+    <StudentCost>Free (Guided: €2.00)</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://visitwicklow.ie/activities/cliff-walk-bray-to-greystones/</Website>
+  <Information>The Cliff Walk from Bray to Greystones is one of Bray’s most popular attractions, for both visitors and locals alike. 
+  The coastal walk winds along the side of Bray Head and has some of the most stunning views of the East Coast.
+
+The Cliff Walk is about 7 kilometres, starting from the bandstand on the Promenade and ending at Greystones harbour. 
+The walk takes about 2 hours to complete and is suitable for all abilities. The Cliff Walk follows the rail line so 
+you can conveniently return to Bray on the Dart retracing your steps and reliving the view from the comfort of the train!
+
+The Cliff Walk is home to numerous types of seabirds and various types of colourful wildflowers that add to the natural beauty of the walk. 
+The keen observer also might spot dolphins, black harbour porpoises and basking sharks swimming in the waters around the Cliff.</Information>
+  </Customer>
+<Customer>
+    <Title>Clonmacnoise</Title>
+    <Area>Co. Offaly</Area>
+    <StudentCost>€4.50</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.heritageireland.ie/en/midlands-eastcoast/clonmacnoise/</Website>
+  <Information>An Early Christian site founded by St. Ciarán in the mid-6th century on the eastern bank of the River Shannon. 
+  The site includes the ruins of a cathedral, seven churches (10th  -13th century), two round towers, three high crosses and the largest collection of Early Christian graveslabs in Western Europe. 
+  The original high crosses and a selection of graveslabs are on display in the visitor centre.
+The long and varied history of Clonmacnoise is recounted in an audiovisual presentation shown in the visitor centre. 
+There are also exhibitions that deal with the flora, fauna and landscape of the region.</Information>
+  </Customer>
+<Customer>
+    <Title>Collins Barracks Museum</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Free</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.museum.ie/Decorative-Arts-History</Website>
+  <Information>The National Museum of Ireland - Decorative Arts and History is a branch of the National Museum of Ireland 
+  located at the former Collins Barracks in the Arbour Hill area of Dublin, Ireland. 
+  The main focus of the galleries is on arts, craft and wares, including exhibits on: 
+  Irish coins and currency, 
+  silverware, 
+  furniture, 
+  folklife and costumes, 
+  ceramics, 
+  and glassware. 
+  Included are artifacts such as Etruscan vases, gauntlets worn by King William at the Battle of the Boyne, 
+  a life belt and oar salvaged from the wreck of the RMS Lusitania and a pocket book carried by Wolfe Tone whilst imprisoned in the Barracks.</Information>
+  </Customer>
+<Customer>
+    <Title>Croke Park GAA Museum</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Museum/Stand: €8.00, Museum/Stadium: €9.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>https://crokepark.ie/gaa-museum-tours/gaa-museum</Website>
+  <Information>Get ready to immerse yourself in the spine-tingling and completely unique story of Gaelic games from ancient times to the present day. 
+
+This museum is like no other sporting museum you’ll ever visit. 
+It not only celebrates the history of Ireland’s national games, it also vividly brings to life how the GAA has contributed to our cultural, social and sporting heritage. </Information>
+  </Customer>
+<Customer>
+    <Title>Dalkey Castle</Title>
+    <Area>Co. Dublin</Area>
+    <StudentCost>€7.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.dalkeycastle.com/</Website>
+  <Information>Dalkey Castle in Dublin includes many living history actors who show 
+  visitors skills and cultural features from the 1500s in Ireland – such as 
+  an archer shooting a longbow, a cook making hedgehog pie and a barber surgeon offering haircuts.
+
+Panoramic views of sea and mountains can be seen from the castle battlements. 
+Visitors can also explore the early Christian church and graveyard, dedicated to St. Begnet.</Information>
+  </Customer>
+<Customer>
+    <Title>Dublin Castle</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€7.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.dublincastle.ie/</Website>
+  <Information>Erected in the early thirteenth century on the site of a Viking settlement, 
+  Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. 
+  In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. 
+  It is now a major government complex and a key tourist attraction.</Information>
+  </Customer>
+<Customer>
+    <Title>Dublin Writers Museum</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€5.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website></Website>
+  <Information>The Irish literary tradition is one of the most illustrious in the world, 
+  famous for four Nobel Prize winners and for many other writers of international renown. 
+
+In 1991, the Dublin Writers Museum was opened to house a history and celebration of literary Dublin. 
+
+Situated in a magnificent 18th century mansion in the north city centre, 
+the collection features the lives and works of Dublin's literary celebrities over the past three hundred years. </Information>
+  </Customer>
+<Customer>
+    <Title>Dublin Zoo</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Under 16: €11.00. Over 16: €16.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>https://www.dublinzoo.ie/</Website>
+  <Information>Dublin Zoo is much more than a fun-filled, stimulating day out for all the family... 
+  it’s a place to learn about wild animals, especially those which are endangered. 
+  The Zoo is a registered charity – your visit will help maintain Dublin Zoo to a high standard, improve the Zoo and contribute to conservation programmes.  
+
+Located in the Phoenix Park in the heart of Dublin city, Dublin Zoo is Ireland’s most popular family attraction, and welcomed over one million visitors last year. 
+
+As one of the world’s oldest, yet popular zoos, the 28 hectare park in the heart of Dublin is home to some 400 animals in safe environment where education and 
+conservation combine for an exciting and unforgettable experience!</Information>
+  </Customer>
+<Customer>
+    <Title>Dublinia Viking Exhibition</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€5.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.dublinia.ie/</Website>
+  <Information>Dublinia is located at the crossroads of the medieval city at Christchurch, where modern and old Dublin meet. 
+  Dublinia is history brought to life in an exciting way for all to engage, learn and share. With our four exciting exhibitions, 
+  you can visit Viking and Medieval Dublin, see Archaeology as a History Hunter and climb the medieval St Michael’s Tower. 
+  At Dublinia, see Dublin from a new perspective and come away knowing more about its citizens throughout the ages!</Information>
+  </Customer>
+<Customer>
+    <Title>Dublinia and Christchurch</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€9.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.dublinia.ie/</Website>
+  <Information></Information>
+  </Customer>
+<Customer>
+    <Title>DunLaoghaire Maritime Museum</Title>
+    <Area>Co. Dublin</Area>
+    <StudentCost>€6.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.mariner.ie/?gclid=CIOA1faX0tYCFWS37QodG-YMsQ</Website>
+  <Information>Ireland’s National Maritime Museum is housed in Dun Laoghaire’s 180-year-old Mariners Church, 
+  directly opposite the new DLR Lexicon library and easily accessible by DART suburban train and several bus services. 
+  The museum’s greatest artefact is probably the building itself as it is one of a few custom built places of worship for seafarers remaining intact in the world to-day.
+
+Experienced guides will bring you on a voyage of discovery enthralling you with stories of discovery, heroism, war and disasters at sea. 
+You will learn about maritime history, exploration, navigation, radio, deep-sea cable technology, nature, wildlife and view art inspired by the sea.
+
+See the 10-tonne revolving Baily Optic, try the electrified steam engine and pause to reflect at the Titanic exhibit, 
+the re-created radio room, the Royal Navy prisoners docks and the war memorial. 
+Try sailor’s knots, learn how they lift heavy weights, be photographed with the pirate, research in the library, 
+visit the shop and café and much more.</Information>
+  </Customer>
+<Customer>
+    <Title>Dunmore Caves</Title>
+    <Area>Co. Kilkenny</Area>
+    <StudentCost>€4.50</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>https://www.irelandsancienteast.com/discover/stories/featured-stories/dunmore-cave?gclid=EAIaIQobChMI-c2UrJjS1gIVzJ0bCh1xsAYtEAAYASAAEgIZ4fD_BwE</Website>
+  <Information>History and geology blend at Dunmore Cave to give an interesting and unique situation. 
+  Consisting of a series of chambers formed over millions of years, the cave contains some of the finest calcite formations found in any Irish cave. 
+  The cave has been known to man for many centuries and is first mentioned in the 9th century Irish Triads. The most interesting reference however, 
+  comes from the Annals which tells of a Viking massacre at the cave in the year 928 A.D.  
+  Archaeological finds within the cave confirm Viking activity. 
+  Exhibitions and displays in the Visitor Centre. 
+  
+The cave is inaccessible for wheelchair users.</Information>
+  </Customer>
+<Customer>
+    <Title>EPIC Ireland</Title>
+    <Area>Dublin</Area>
+    <StudentCost>€9.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://epicchq.com/</Website>
+  <Information>Our family-friendly state of the art museum is suitable for all ages. 
+  Cutting-edge interactive technology brings visitors on a journey through the Irish emigration experience, 
+  acquainting them with the influence the Irish have brought to bear worldwide in the areas of sport, culture, art, politics, activism, charity, science, and many more. 
+  The exhibition is made up of twenty galleries which are each individually themed, and fall under the headings of 
+  Migration (Galleries 1-2), 
+  Motivation (Galleries 4-7), 
+  Influence (Galleries 8-18) 
+  and Diaspora Today (Galleries 19-20). 
+  EPIC is located in the restored vaults of CHQ in Dublin’s Custom House Quarter. 
+  It was officially opened on May 6th 2016 by founder Neville Isdell and former President of Ireland Mary Robinson. 
+  EPIC aims to reflect the past, and to invite visitors from across the globe to discover heretofore unknown connections.</Information>
+  </Customer>
+  <Customer>
+    <Title>Glasnevin Cemetery</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Under 18: €7.00,
+    Over 18: €8.00</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>https://www.glasnevinmuseum.ie/index.cfm</Website>
+    <Information>Glasnevin Cemetery Museum, both the guardian and storyteller for over 1.5 million people. 
+    From the ordinary to the truly extraordinary, these people helped shape the Ireland of today. 
+    We want to share their stories and times with you through tours of the cemetery, 
+    a visit to the museum or through a genealogy search for your family history.</Information>
+  </Customer>
+  <Customer>
+    <Title>Guinness Storehouse</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Under 18: €13.00, Over 18: €14.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>1 free per 15 students</LeaderFree>
+    <LeaderCost>€14.50</LeaderCost>
+    <Website>https://www.guinness-storehouse.com/en</Website>
+    <Information>Located in the heart of the St. James's Gate Brewery, the Guinness Storehouse® is Ireland's most popular tourist attraction. 
+    It's the home of the Black Stuff, the heart of Dublin and an unforgettable start to your Irish adventure.
+
+The journey begins at the bottom of the world's largest pint glass and continues up through seven floors filled with interactive 
+experiences that fuse our long brewing heritage with Ireland's rich history. 
+At the top, you'll be rewarded with a pint of perfection in our world-famous rooftop Gravity Bar. 
+Now that's our kind of higher education.</Information>
+  </Customer>
+  <Customer>
+    <Title>Hill of Tara</Title>
+    <Area>Co. Meath</Area>
+    <StudentCost>Free</StudentCost>
+    <Transport>Yes</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://hilloftara.org/</Website>
+    <Information>The Hill of Tara, located near the River Boyne, is an archaeological complex that runs between Navan and Dunshaughlin in County Meath, Leinster, Ireland. 
+    It contains a number of ancient monuments, and, according to tradition, was the seat of Árd Rí na hÉireann, or the High King of Ireland. 
+    Recent scholarship claims that despite the rich narratives derived from mythologies, 
+    Tara was not so much a true seat of kingship, but a sacral site associated with kingship rituals.</Information>
+  </Customer>
+  <Customer>
+    <Title>Howth</Title>
+    <Area>Co. Dublin</Area>
+    <StudentCost>Free</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website>http://www.visitdublin.com/hooked-on-howth-dublin</Website>
+    <Information>Below the hilly headland at the northern boundary of Dublin Bay lies the small fishing village of Howth. 
+    There are so many things to do in Howth – an angler’s dream; cod and ray are commonly caught here as fishing trawlers weave in and out of the harbour. 
+    All the while, restaurants along the seafront serve up the catch of the day to hungry hikers fresh off the Howth Head walk...</Information>
+  </Customer>
+  <Customer>
+    <Title>Bray Irish Dancing</Title>
+    <Area>Bray</Area>
+    <StudentCost>€9.50</StudentCost>
+    <Transport>No</Transport>
+    <Transport16></Transport16>
+    <Transport30></Transport30>
+    <Transport53></Transport53>
+    <LeaderFree>Yes</LeaderFree>
+    <LeaderCost>€0.00</LeaderCost>
+    <Website></Website>
+    <Information>Irish dance lessons take place in Bray, generally in the Esplanade Hotel, but can also be held in the Martello Hotel.
+    Over an hour and a half, the students are given expert lessons in traditional Irish dancing.
+  Good exercise and lots of fun!</Information>
+  </Customer>
+</Customer>
