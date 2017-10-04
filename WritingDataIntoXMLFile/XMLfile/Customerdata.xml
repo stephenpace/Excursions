@@ -547,9 +547,9 @@ Now that's our kind of higher education.</Information>
   Good exercise and lots of fun!</Information>
   </Customer>
 <Customer>
-    <Title>Bray Irish Dancing</Title>
-    <Area>Bray</Area>
-    <StudentCost>€9.50</StudentCost>
+    <Title>Irish Whiskey Museum</Title>
+    <Area>Dublin</Area>
+    <StudentCost>Under 10pax: €13.50, over 10pax: €12:50</StudentCost>
     <Transport>No</Transport>
     <Transport16></Transport16>
     <Transport30></Transport30>
